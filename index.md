@@ -4,4 +4,4 @@ The opinions contained on this website are the author's and the author's alone. 
 
 # The Cone of Ignorance
 
-_Random thoughts on self-driving technology, touring United States National Parks, computer science, applied math, The Simpsons, sports and sports theory, beer, dogs, political theory, absurdity & surrealism, futurama, and whatever else the author feels like talking about._
+_Random thoughts on self-driving technology, touring United States National Parks, computer science, applied math, The Simpsons, sports and sports theory, beer, dogs, political theory, absurdity & surrealism, Futurama, Blue Man Group, and whatever else the author feels like talking about._
